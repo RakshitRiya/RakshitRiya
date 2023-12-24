@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Riya Rakshit</h1>
-<h3 align="center">A Systems Engineer from India ✨</h3>
+<h3 align="center">Systems Engineer✨</h3>
+<br/>
 
-- 🔭 I’m currently working with **D.E.Shaw India Pvt. Ltd.**
+- 🔭 I’m currently working with **D.E.Shaw India Pvt. Ltd.**, Hyderabad, India.
 
 - 🌱 I’m currently learning **ReactJS and SpringBoot.**
 

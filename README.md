@@ -12,7 +12,6 @@
 
 - 📫 Feel free to reach out to me: **rbr.rakshit14@gmail.com**
 
-- 📄 Know about my experiences: [https://rakshitriya.github.io/packages/pdf/Riya_Rakshit_CV.pdf](https://rakshitriya.github.io/packages/pdf/Riya_Rakshit_CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
